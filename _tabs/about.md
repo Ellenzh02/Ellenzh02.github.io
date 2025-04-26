@@ -36,18 +36,12 @@ order: 4
   <div class="card-body" style="line-height: 1.8;">
 
     <p>
-      <strong>SGD Capital Management</strong>, Shenzhen, China
-      <span style="float: right;">Aug. 2023 – Apr. 2024</span><br>
-      <em>Quantitative Trading Intern</em>
+      <strong>Jiwei Fund</strong>, Beijing, China
+      <span style="float: right;">July. 2023 – Sep. 2024</span><br>
+      <em>Quantitative Researcher Intern</em>
     </p >
 
-    <hr>
-
-    <p>
-      <strong>Jinrui Futures</strong>, Shenzhen, China
-      <span style="float: right;">Aug. 2022 – Oct. 2022</span><br>
-      <em>Quantitative Trading Intern</em>
-    </p >
+    
 
   </div>
 </div>
